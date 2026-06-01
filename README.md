@@ -14,11 +14,18 @@
 
 ### 🛠 Стек
 
+**Web/Backend:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Desktop:**
+![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Тестирование и инструменты:**
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white)
 ![Moq](https://img.shields.io/badge/Moq-3B5998?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,14 +35,23 @@
 
 ### 🎯 Сейчас в фокусе
 
-- Чистая архитектура — MVVM, SOLID, DI, разделение слоёв
+- Web-разработка на ASP.NET Core MVC + Entity Framework Core + PostgreSQL
+- Многослойная архитектура (Layered / Clean / Onion), SOLID, DI
 - Юнит-тестирование с xUnit и Moq
-- Десктоп-разработка на WPF (.NET 9)
+- Десктоп-разработка на WPF (.NET 9), MVVM
 - Git-workflow и Conventional Commits
 
 ---
 
-### 📌 Избранный проект
+### 📌 Избранные проекты
+
+#### [BREWCO / OnlineShop](https://github.com/Vanchestery/OnlineShop) — онлайн-магазин кофе и чая
+
+ASP.NET Core 9 MVC + Entity Framework Core + PostgreSQL в Docker. Полноценный e-commerce:
+каталог с поиском и фильтрами по категориям, анонимная корзина с merge при логине,
+оформление заказа с frozen-snapshot цен, отзывы со средним рейтингом, Admin Area
+с CRUD товаров и загрузкой картинок, ASP.NET Identity с ролями. 30 unit-тестов на Moq,
+GitHub Actions CI, кастомный Brutalist Modern UI без bootstrap-шаблонов.
 
 #### [GsmCalculator](https://github.com/Vanchestery/GsmCalculator) — десктоп-калькулятор для расчётов ГСМ
 
@@ -48,8 +64,8 @@ RU/EN на лету, сохранение сессии. ~80 xUnit/Moq-тесто
 ### 📊 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanchestery&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanchestery&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanchestery&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanchestery&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" height="170">
 </p>
 
 ---
