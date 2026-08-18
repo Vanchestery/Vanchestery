@@ -70,6 +70,7 @@ ASP.NET Core 9 + Telegram.Bot + EF Core, Stepik API, Polly, xUnit/Moq.
 - 🚀 **AiDocAssistant** — 50 tests · 14 evals · MCP · RAG · pgvector
 - 🧮 **GsmCalculator** — ~80 tests · WPF · CI
 - 🛒 **OnlineShop** — 30 tests · e-commerce
+- 🤖 **TelegramReferralBot** — ASP.NET Core · Telegram.Bot · PostgreSQL · CI
 ---
 
 ### 📫 Связаться
