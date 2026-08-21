@@ -53,10 +53,6 @@ Full-stack **.NET 8** pipeline: PDF/OCR → **LLM extraction** → **RAG** (pgve
 
 ### 📌 Другие проекты
 
-#### [GsmCalculator](https://github.com/Vanchestery/GsmCalculator) — десктоп-калькулятор ГСМ
-
-WPF (.NET 9), MVVM, плавающие виджеты, темы, RU/EN, ~80 xUnit-тестов, CI.
-
 #### [BREWCO / OnlineShop](https://github.com/Vanchestery/OnlineShop) — онлайн-магазин кофе и чая
 
 Coffee & tea e-commerce on **ASP.NET Core 9 MVC**. Identity, **cart merge**, admin area, Brutalist UI, **30 xUnit** tests, CI.
@@ -66,6 +62,10 @@ Coffee & tea e-commerce on **ASP.NET Core 9 MVC**. Identity, **cart merge**, adm
 #### [TelegramReferralBot](https://github.com/Vanchestery/TelegramReferralBot) — реферальный бот
 
 Telegram-бот реферальной программы для онлайн-курсов: **Stepik** catalog, promo codes, partner cabinet, REST webhooks. ASP.NET Core 9 · PostgreSQL · EF Core · **10 xUnit** · CI.
+
+#### [GsmCalculator](https://github.com/Vanchestery/GsmCalculator) — десктоп-калькулятор ГСМ
+
+WPF (.NET 9), MVVM, плавающие виджеты, темы, RU/EN, ~80 xUnit-тестов, CI.
 
 ---
 
