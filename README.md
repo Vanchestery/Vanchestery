@@ -1,14 +1,16 @@
 Привет, я Иван 👋  
 **Junior C# / .NET developer** · backend, AI-интеграции, desktop
 
+🔍 **Open to work** · Junior C# / .NET · backend · remote / hybrid
+
 ---
 
 ### 🛠 Стек
 
 **Web / Backend / AI:**
-![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![NET](https://img.shields.io/badge/.NET_8%2F9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASPNET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8%2F9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,25 +57,29 @@ Full-stack **.NET 8** pipeline: PDF/OCR → **LLM extraction** → **RAG** (pgve
 
 WPF (.NET 9), MVVM, плавающие виджеты, темы, RU/EN, ~80 xUnit-тестов, CI.
 
-#### [BREWCO / OnlineShop](https://github.com/Vanchestery/OnlineShop) — онлайн-магазин
+#### [BREWCO / OnlineShop](https://github.com/Vanchestery/OnlineShop) — онлайн-магазин кофе и чая
 
-ASP.NET Core 9 MVC + EF Core + PostgreSQL, e-commerce, Identity, Admin, 30 unit-тестов, GitHub Actions.
+Coffee & tea e-commerce on **ASP.NET Core 9 MVC**. Identity, **cart merge**, admin area, Brutalist UI, **30 xUnit** tests, CI.
+
+![BREWCO home](https://github.com/Vanchestery/OnlineShop/raw/main/docs/screenshots/home.png)
 
 #### [TelegramReferralBot](https://github.com/Vanchestery/TelegramReferralBot) — реферальный бот
 
-ASP.NET Core 9 + Telegram.Bot + EF Core, Stepik API, Polly, xUnit/Moq.
+Telegram-бот реферальной программы для онлайн-курсов: **Stepik** catalog, promo codes, partner cabinet, REST webhooks. ASP.NET Core 9 · PostgreSQL · EF Core · **10 xUnit** · CI.
 
 ---
 
 ### 📊 Highlights
 
 - 🚀 **AiDocAssistant** — 50 tests · 14 evals · MCP · RAG · pgvector
+- 🛒 **OnlineShop (BREWCO)** — 30 tests · e-commerce · Brutalist UI · cart merge
+- 🤖 **TelegramReferralBot** — Stepik API · webhooks · 10 tests · CI
 - 🧮 **GsmCalculator** — ~80 tests · WPF · CI
-- 🛒 **OnlineShop** — 30 tests · e-commerce
-- 🤖 **TelegramReferralBot** — ASP.NET Core · Telegram.Bot · PostgreSQL · CI
+
 ---
 
 ### 📫 Связаться
 
 - 📧 **Email:** vankafinn1103@gmail.com
+- 💬 **Telegram:** [@Vanchestery](https://t.me/Vanchestery)
 - 💼 **GitHub:** [@Vanchestery](https://github.com/Vanchestery)
