@@ -59,9 +59,9 @@ Coffee & tea e-commerce on **ASP.NET Core 9 MVC**. Identity, **cart merge**, adm
 
 ![BREWCO home](https://github.com/Vanchestery/OnlineShop/raw/main/docs/screenshots/home.png)
 
-#### [TelegramReferralBot](https://github.com/Vanchestery/TelegramReferralBot) — реферальный бот
+#### [TelegramReferralBot](https://github.com/Vanchestery/telegram-referral-bot) — реферальный бот
 
-Telegram-бот реферальной программы для онлайн-курсов: **Stepik** catalog, promo codes, partner cabinet, REST webhooks. ASP.NET Core 9 · PostgreSQL · EF Core · **10 xUnit** · CI.
+Telegram-бот реферальной программы для онлайн-курсов: **Stepik** catalog, promo codes, partner cabinet, REST webhooks. ASP.NET Core 10 · PostgreSQL · EF Core · **10 xUnit** · CI.
 
 #### [GsmCalculator](https://github.com/Vanchestery/GsmCalculator) — десктоп-калькулятор ГСМ
 
